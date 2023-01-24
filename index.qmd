@@ -75,7 +75,7 @@ title-slide-attributes:
 
 # Where do we really start?
 
-# How do we learn a Human natural knowledge?
+# How do we learn a human natural language?
 
 ## Install R from 
 
