@@ -1,0 +1,101 @@
+---
+title: "Introduction to R"
+subtitle: "GEEKS Uganda Mentorship session"
+include-in-header: meta.html
+format:
+  revealjs:
+    logo: images/AFENET-LOGO.webp
+    incremental: true
+    self-contained: false 
+    theme: "simple"
+    history: false
+    code-overflow: wrap
+    df-print: default
+    touch: true
+    footer: ""
+    preview-links: true
+    code-link: true
+execute: 
+  echo: true
+title-slide-attributes: 
+  data-background-image: "images/geeks.png"
+  data-background-size: "25%"
+  data-background-position: "50% 80%"
+---
+
+## Agenda
+
+- What is R?
+
+- Do we really need R?
+
+- How to install R?
+
+# What is R?
+
+[R is an Open Source and free programming language for statistical computing and graphics.]{.fragment style="color:#c97238;"}
+
+# Why R?
+
+## Non programmers point of view 
+
+- It's Free
+
+- The community &#x1F468;&#x200D;&#x1F4BB;
+
+- Flexible and highly customizable outputs
+
+- Created with Statistics at heart
+
+- A higher learning curve than excel but better value
+
+- Can integrate and read data from different systems, databases, systems like DHIS2, googlesheets, EPI-info, Stata, SPSS.
+
+
+## Programmers point of view
+
+- Easier to learn and understand compared to other languages for statistics purposes.
+
+## Why do we need R when we have excel?
+
+- Free and open source 
+
+- One of the most popular tools for data analysis
+
+- Can develop Web applications, dashboards, automatic reports, APIs, 
+
+   **This Presentation was created using R** 
+
+- Can easily integrate with other Languages Python, SQL, JavaScript, CSS 
+
+
+# R and DHIS2
+
+# Demo 
+
+# Where do we really start?
+
+# How do we learn a Human natural knowledge?
+
+## Install R from 
+
+- [cloud.r-project.org](cloud.r-project.org)
+ 
+- [mac (https://cran.r-project.org/bin/macosx/)](https://cran.r-project.org/bin/macosx/) 
+
+- [windows (https://cran.r-project.org/bin/windows/base/)](https://cran.r-project.org/bin/windows/base/)
+
+## Install R-Studio IDE
+ 
+- [rstudio IDE (https://www.rstudio.com/products/rstudio/download/)](https://www.rstudio.com/products/rstudio/download/) 
+
+## RStudio cloud
+
+RStudio Cloud is another product from [rstudio](rstudio.com) which gives you a lightweight, cloud-based version of RStudio Desktop IDE that allows you work with your r scripts, projects online and also share with your colleagues. 
+
+# Any questions?
+
+
+# Thanks!
+
+
